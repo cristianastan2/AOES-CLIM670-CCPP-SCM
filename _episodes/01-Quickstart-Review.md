@@ -14,3 +14,9 @@ objectives:
   - There is also a CCPP single-column model (CCPP SCM) which is a simplified framework that enables experimentation in a controlled setting using forcing datasets originating from experimental field campaigns.
  
 ![CCPP Ecosystem](https://dtcenter.org/sites/default/files/inline-images/CCPP%20Ecosystem%20Detailed.png)
+
+The CCPP aims to support the broad community while benefiting from the community. In such a CCPP ecosystem, the CCPP can be used not only by the operational centers to produce operational forecasts, but also by the research community to conduct investigation and development. Innovations created and effectively tested by the research community can be funneled back to the operational centers for further improvement of the operational forecasts.
+
+### Common Community Physics Package (CCPP) System Architecture
+
+![]https://dtcenter.org/sites/default/files/inline-images/ccpp_arch_host_1.png
