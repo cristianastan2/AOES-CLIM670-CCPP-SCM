@@ -3,7 +3,7 @@ title: "CCPP-SCM"
 teaching: 0
 exercises: 0
 questions:
-- "What is a single column model?"
+- "What is a Physics Package?"
 objectives:
 - "Learn about the Common Community Physics Package"
 ---
