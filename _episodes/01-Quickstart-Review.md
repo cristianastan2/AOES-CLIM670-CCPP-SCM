@@ -1,5 +1,5 @@
 ---
-title: "Assignment #1"
+title: "CCPP-SCM"
 teaching: 0
 exercises: 0
 questions:
