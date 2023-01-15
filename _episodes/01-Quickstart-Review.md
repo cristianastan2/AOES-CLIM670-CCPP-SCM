@@ -19,4 +19,4 @@ The CCPP aims to support the broad community while benefiting from the community
 
 ### Common Community Physics Package (CCPP) System Architecture
 
-![]https://dtcenter.org/sites/default/files/inline-images/ccpp_arch_host_1.png
+![](https://dtcenter.org/sites/default/files/inline-images/ccpp_arch_host_1.png)
