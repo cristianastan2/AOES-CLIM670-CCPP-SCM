@@ -1,5 +1,5 @@
 ---
-title: "CCPP-SCM"
+title: "Single Column Model"
 teaching: 0
 exercises: 0
 questions:
