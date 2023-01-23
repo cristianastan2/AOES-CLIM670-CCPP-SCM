@@ -1,5 +1,5 @@
 ---
-title: "CCPP-SCM"
+title: "Common Community Physics Package"
 teaching: 0
 exercises: 0
 questions:
